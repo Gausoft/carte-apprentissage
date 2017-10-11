@@ -12,7 +12,7 @@ L'utilisateur commencera son apprentissage sur la première case **HTML** où il
 
 - Les zones en bleu clair sont des passerelles, elles ne contiendront pas de tests mais permettront à l'utilisateur de choisir vers quoi s'orienter (backend, frontend, devops...)
 - Des "murs" pourront empêcher des cases adjacentes d'être accessibles (utile pour garder la carte compact).
-- La carte complète n'est pas forcément évidente à lire et ne sera pas présentée directement à l'utilisateur. Le focus se fera sur la formation en cours d'aprentissages et les cases adjacentes accessibles. L'objectif et de ne pas décourager les personnes en affichant des dixaines de technologies à apprendre d'un coup.
+- La carte complète n'est pas forcément évidente à lire et ne sera pas présentée directement à l'utilisateur. Le focus se fera sur la formation en cours d'aprentissages et les cases adjacentes accessibles. L'objectif est de ne pas décourager les personnes en affichant des dixaines de technologies à apprendre d'un coup.
 
 ![](map.svg)
 
